@@ -17,5 +17,4 @@ At some point, it will ask you for the date: just type it in the command line in
 # The 'database.csv' file
 That's the file that tracks all of the data of the companies. So, to take previous data into account, make a new folder containing the jungle_scraper.py file and the most recent database.csv file, and the database.csv file will be overwritten/updated with the new data. 
 
-If you have any questions or concerns: 
-contact me at: jaya.bonelli@gmail.com
+If you have any questions or concerns, contact me at: jaya.bonelli@gmail.com
